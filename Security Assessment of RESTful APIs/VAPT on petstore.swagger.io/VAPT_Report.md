@@ -9,8 +9,9 @@
 4. Tools Used  
 5. OWASP API Top 10 Mapping  
 6. Detailed Vulnerability Analysis (with PoC)  
-7. Mitigation & Security Recommendations  
-8. Conclusion  
+7. Mitigation & Security Recommendations 
+8. Risk Summary 
+9. Conclusion  
 
 ---
 
@@ -289,6 +290,6 @@ If exploited, these issues could significantly impact business operations, data 
 
 #  Prepared By
 
-**Name:** Aadith C H  
+**Name:** Aadith CH  
 **Role:** Cybersecurity Trainee 
 **Date:** 27 March 2026  
