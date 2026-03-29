@@ -88,8 +88,6 @@ mutation {
 
 Password: **112233**
 
- Screenshot Placeholder  
-![Success](./screenshots/success.png)
 
 ---
 
